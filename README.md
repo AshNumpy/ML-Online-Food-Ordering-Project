@@ -29,8 +29,6 @@ Bu proje, online yemek siparişi alan bir firmanın müşteri davranışlarını
 
 </details>
 
----
-
 ## Project Overview:
 
 This project is a study to analyze and visualize customer behaviors of an online food ordering company. The project aims to analyze customers' ordering habits, order frequencies, preferred food types, and other relevant behaviors to draw various insights. Additionally, it will use machine learning algorithms to predict whether customers will place orders again.
